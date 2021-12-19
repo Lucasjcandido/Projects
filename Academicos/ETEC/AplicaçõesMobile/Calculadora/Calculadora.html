@@ -1,0 +1,152 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <meta http-equiv="Content-Security-Policy" content="default-src * data: gap: https://ssl.gstatic.com; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'">
+  <script src="components/loader.js"></script>
+  <script src="lib/onsenui/js/onsenui.min.js"></script>
+
+  <link rel="stylesheet" href="components/loader.css">
+  <link rel="stylesheet" href="lib/onsenui/css/onsenui.css">
+  <link rel="stylesheet" href="lib/onsenui/css/onsen-css-components.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <script>
+    ons.ready(function() {
+      console.log("Onsen UI is ready!");
+    });
+
+    if (ons.platform.isIPhoneX()) {
+      document.documentElement.setAttribute('onsflag-iphonex-portrait', '');
+      document.documentElement.setAttribute('onsflag-iphonex-landscape', '');
+    }
+    
+  </script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    text-shadow: 1px 1px 2px rgb(94, 43, 160);
+}
+body{
+    min-width: 395px;
+    min-height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+p {
+    margin-top: 70%;
+    position: absolute;
+}
+h1{
+    margin-top:-70%;
+    position: absolute;
+}
+h1, p{
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    text-shadow: 2px 2px 3px black;
+}
+.container{
+    position: relative;
+    border-radius: 6px;
+    overflow: hidden;
+    z-index: 10;
+    background: #5474ada1;
+    backdrop-filter: blur(50px);
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    border-left: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0px 0px 13px 11px rgba(0,0,0,0.35);
+}
+.container .calculadora{
+    position: relative;
+    display: grid;
+}
+.container .calculadora .value{
+    grid-column: span 4;
+    height: 140px;
+    width: 300px;
+    text-align: right;
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 30px;
+    background: transparent;
+    color: #fff;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    border-right: 1px solid rgba(255, 255, 255, 0.5);
+}
+.container .calculadora span{
+    display: grid;
+    place-items: center;
+    width: 75px;
+    height: 75px;
+    color: #fff;
+    font-weight: 400;
+    cursor: pointer;
+    font-size: 20px;
+    user-select: none;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    border-right: 1px solid rgba(255, 255, 255, 0.5);
+}
+.container .calculadora span:hover{
+    transition:  0s;
+    background:  rgba(255,255,255, 0.1);
+
+}
+.container .calculadora span:active{
+    background:  #4501b90c;
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+}
+.container .calculadora .clear{
+    grid-column: span 2;
+    width: 150px;
+    background:  rgba(255,255,255, 0.1);
+}
+.container .calculadora .zero{
+    grid-column: span 2;
+    width: 150px;
+}
+.container .calculadora .mais{
+    grid-row: span 2;
+    height: 150px; 
+}
+.container .calculadora .equal{
+    background:  rgba(255,255,255, 0.1);  
+}
+  </style>
+</head>
+<body>
+	<div class="container">
+		<form class="calculadora" name="calc">
+				<input type="text" class="value" placeholder="Calculadora" name="txt">
+				<span class="num clear" onclick="calc.txt.value = ''">C</span>
+				<span class="num" onclick="document.calc.txt.value += '/'">÷</span>
+				<span class="num" onclick="document.calc.txt.value += '*'">x</span>
+				<span class="num" onclick="document.calc.txt.value += '7'">7</span>
+				<span class="num" onclick="document.calc.txt.value += '8'">8</span>
+				<span class="num" onclick="document.calc.txt.value += '9'">9</span>
+				<span class="num" onclick="document.calc.txt.value += '-'">-</span>
+				<span class="num" onclick="document.calc.txt.value += '4'">4</span>
+				<span class="num" onclick="document.calc.txt.value += '5'">5</span>
+				<span class="num" onclick="document.calc.txt.value += '6'">6</span>
+				<span class="num mais" onclick="document.calc.txt.value += '+'">+</span>
+				<span class="num" onclick="document.calc.txt.value += '1'">1</span>
+				<span class="num" onclick="document.calc.txt.value += '2'">2</span>
+				<span class="num" onclick="document.calc.txt.value += '3'">3</span>
+				<span class="num zero" onclick="document.calc.txt.value += '0'">0</span>
+				<span class="num" onclick="document.calc.txt.value += '.'">.</span>
+				<span class="num equal" onclick="document.calc.txt.value =eval(calc.txt.value)">=</span>
+		</form>
+	</div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+C:\Users\PC-HOME\OneDrive\Documentos\Escolar\ETEC\1°Modulo\[07-2020]\Programação Algoritmo\Trabalhos\Exercicios_03\calcularpesoideal\obj\Debug\netcoreapp3.1\calcularpesoideal.csprojAssemblyReference.cache
+C:\Users\PC-HOME\OneDrive\Documentos\Escolar\ETEC\1°Modulo\[07-2020]\Programação Algoritmo\Trabalhos\Exercicios_03\calcularpesoideal\obj\Debug\netcoreapp3.1\calcularpesoideal.AssemblyInfoInputs.cache
+C:\Users\PC-HOME\OneDrive\Documentos\Escolar\ETEC\1°Modulo\[07-2020]\Programação Algoritmo\Trabalhos\Exercicios_03\calcularpesoideal\obj\Debug\netcoreapp3.1\calcularpesoideal.AssemblyInfo.cs
+C:\Users\PC-HOME\OneDrive\Documentos\Escolar\ETEC\1°Modulo\[07-2020]\Programação Algoritmo\Trabalhos\Exercicios_03\calcularpesoideal\obj\Debug\netcoreapp3.1\calcularpesoideal.csproj.CoreCompileInputs.cache
+C:\Users\PC-HOME\OneDrive\Documentos\Escolar\ETEC\1°Modulo\[07-2020]\Programação Algoritmo\Trabalhos\Exercicios_03\calcularpesoideal\bin\Debug\netcoreapp3.1\calcularpesoideal.exe
+C:\Users\PC-HOME\OneDrive\Documentos\Escolar\ETEC\1°Modulo\[07-2020]\Programação Algoritmo\Trabalhos\Exercicios_03\calcularpesoideal\bin\Debug\netcoreapp3.1\calcularpesoideal.deps.json
+C:\Users\PC-HOME\OneDrive\Documentos\Escolar\ETEC\1°Modulo\[07-2020]\Programação Algoritmo\Trabalhos\Exercicios_03\calcularpesoideal\bin\Debug\netcoreapp3.1\calcularpesoideal.runtimeconfig.json
+C:\Users\PC-HOME\OneDrive\Documentos\Escolar\ETEC\1°Modulo\[07-2020]\Programação Algoritmo\Trabalhos\Exercicios_03\calcularpesoideal\bin\Debug\netcoreapp3.1\calcularpesoideal.runtimeconfig.dev.json
+C:\Users\PC-HOME\OneDrive\Documentos\Escolar\ETEC\1°Modulo\[07-2020]\Programação Algoritmo\Trabalhos\Exercicios_03\calcularpesoideal\bin\Debug\netcoreapp3.1\calcularpesoideal.dll
+C:\Users\PC-HOME\OneDrive\Documentos\Escolar\ETEC\1°Modulo\[07-2020]\Programação Algoritmo\Trabalhos\Exercicios_03\calcularpesoideal\bin\Debug\netcoreapp3.1\calcularpesoideal.pdb
+C:\Users\PC-HOME\OneDrive\Documentos\Escolar\ETEC\1°Modulo\[07-2020]\Programação Algoritmo\Trabalhos\Exercicios_03\calcularpesoideal\obj\Debug\netcoreapp3.1\calcularpesoideal.dll
+C:\Users\PC-HOME\OneDrive\Documentos\Escolar\ETEC\1°Modulo\[07-2020]\Programação Algoritmo\Trabalhos\Exercicios_03\calcularpesoideal\obj\Debug\netcoreapp3.1\calcularpesoideal.pdb
+C:\Users\PC-HOME\OneDrive\Documentos\Escolar\ETEC\1°Modulo\[07-2020]\Programação Algoritmo\Trabalhos\Exercicios_03\calcularpesoideal\obj\Debug\netcoreapp3.1\calcularpesoideal.genruntimeconfig.cache

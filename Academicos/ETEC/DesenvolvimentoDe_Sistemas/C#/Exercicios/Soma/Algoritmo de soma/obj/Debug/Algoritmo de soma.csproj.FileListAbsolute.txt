@@ -1,0 +1,7 @@
+F:\ETEC\Programação Algoritmo\Algoritmo de soma\Algoritmo de soma\bin\Debug\Algoritmo de soma.exe.config
+F:\ETEC\Programação Algoritmo\Algoritmo de soma\Algoritmo de soma\bin\Debug\Algoritmo de soma.exe
+F:\ETEC\Programação Algoritmo\Algoritmo de soma\Algoritmo de soma\bin\Debug\Algoritmo de soma.pdb
+F:\ETEC\Programação Algoritmo\Algoritmo de soma\Algoritmo de soma\obj\Debug\Algoritmo de soma.csprojAssemblyReference.cache
+F:\ETEC\Programação Algoritmo\Algoritmo de soma\Algoritmo de soma\obj\Debug\Algoritmo de soma.csproj.CoreCompileInputs.cache
+F:\ETEC\Programação Algoritmo\Algoritmo de soma\Algoritmo de soma\obj\Debug\Algoritmo de soma.exe
+F:\ETEC\Programação Algoritmo\Algoritmo de soma\Algoritmo de soma\obj\Debug\Algoritmo de soma.pdb

@@ -1,0 +1,42 @@
+
+/* =============x Responsivo Celular x============ */
+@media screen and (max-width: 320px){
+	*{margin-bottom: 0;}
+	#no-responsive{display: none;}
+	#responsive{ display: block; width: 50%;}
+	legend{border-color: black;}
+	.row{margin:0;}
+
+
+/* Botão */
+	#btn-toggle{width: 50px; height: 50px;}
+	#toggle-img{width: 100%;}
+/* ==== */
+
+/* Menu */
+	.logo{width: 300%; margin-left: 70%;}
+	.alinhamento{font-size: 12pt}
+	ul{list-style: none; display: inline-block;}
+	#navbarSupportedContent{width: 127%; margin: 70% 105%; text-align: center; margin-bottom: 0%;}
+	.nav-item{font-size: 15pt; padding-left: 5%;}
+	.nav>li>a{padding: 10px 10px;}
+	a{color: black;}
+	a:link {text-decoration:none;}
+	a:visited {text-decoration:none;}
+	a:hover {text-decoration:none;}
+/* ==== */
+	
+/* Meio */
+	.Texto{height: 360px; text-align: center; margin-top: 41%; padding-left: 0;}
+	#texto{font-size: x-large;}
+	.Cards{width: 400px; margin: 0% -36%;; height: auto; background-color: #071948; padding: 4% 0%; padding-right: 3%; display: inline-block; list-style: none;}
+	#card{max-height: 100%;}
+	.bodyCard-1{height: 300px; width: 345px; padding: 10% 10%; background-color: #ffffff8c; text-align: center; margin: 0% 12%; margin-top: 3%;}
+	.bodyCard-2{height: 255px; width: 345px; padding: 7% 5%; background-color: white; text-align: center; font-weight: 600; margin: 0% 12%;}
+/* ==== */
+
+/* Rodapé */
+	.Footer{width: 100%; text-align: center; position: relative;}
+	#texto2{font-size: 10px; margin-right: 10px;}
+}
+/* ==== */

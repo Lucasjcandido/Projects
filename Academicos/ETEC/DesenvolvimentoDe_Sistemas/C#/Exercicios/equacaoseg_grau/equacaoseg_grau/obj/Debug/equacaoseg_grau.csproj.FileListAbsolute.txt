@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\GHUB\Projetos\C#\Exercicios\Academicos\equacaoseg_grau\equacaoseg_grau\bin\Debug\equacaoseg_grau.exe.config
+C:\Users\lucas\Documents\GHUB\Projetos\C#\Exercicios\Academicos\equacaoseg_grau\equacaoseg_grau\bin\Debug\equacaoseg_grau.exe
+C:\Users\lucas\Documents\GHUB\Projetos\C#\Exercicios\Academicos\equacaoseg_grau\equacaoseg_grau\bin\Debug\equacaoseg_grau.pdb
+C:\Users\lucas\Documents\GHUB\Projetos\C#\Exercicios\Academicos\equacaoseg_grau\equacaoseg_grau\obj\Debug\equacaoseg_grau.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\GHUB\Projetos\C#\Exercicios\Academicos\equacaoseg_grau\equacaoseg_grau\obj\Debug\equacaoseg_grau.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\GHUB\Projetos\C#\Exercicios\Academicos\equacaoseg_grau\equacaoseg_grau\obj\Debug\equacaoseg_grau.exe
+C:\Users\lucas\Documents\GHUB\Projetos\C#\Exercicios\Academicos\equacaoseg_grau\equacaoseg_grau\obj\Debug\equacaoseg_grau.pdb

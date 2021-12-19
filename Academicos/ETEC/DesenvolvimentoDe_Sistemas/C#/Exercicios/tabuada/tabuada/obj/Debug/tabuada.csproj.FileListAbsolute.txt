@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\Projetos\C#\tabuada\tabuada\bin\Debug\tabuada.exe.config
+C:\Users\lucas\Documents\Projetos\C#\tabuada\tabuada\bin\Debug\tabuada.exe
+C:\Users\lucas\Documents\Projetos\C#\tabuada\tabuada\bin\Debug\tabuada.pdb
+C:\Users\lucas\Documents\Projetos\C#\tabuada\tabuada\obj\Debug\tabuada.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\Projetos\C#\tabuada\tabuada\obj\Debug\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Projetos\C#\tabuada\tabuada\obj\Debug\tabuada.exe
+C:\Users\lucas\Documents\Projetos\C#\tabuada\tabuada\obj\Debug\tabuada.pdb

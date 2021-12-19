@@ -1,0 +1,7 @@
+F:\ETEC\Programação Algoritmo\Metade da Diferença\Metade da Diferença\bin\Debug\Metade da Diferença.exe.config
+F:\ETEC\Programação Algoritmo\Metade da Diferença\Metade da Diferença\bin\Debug\Metade da Diferença.exe
+F:\ETEC\Programação Algoritmo\Metade da Diferença\Metade da Diferença\bin\Debug\Metade da Diferença.pdb
+F:\ETEC\Programação Algoritmo\Metade da Diferença\Metade da Diferença\obj\Debug\Metade da Diferença.csprojAssemblyReference.cache
+F:\ETEC\Programação Algoritmo\Metade da Diferença\Metade da Diferença\obj\Debug\Metade da Diferença.csproj.CoreCompileInputs.cache
+F:\ETEC\Programação Algoritmo\Metade da Diferença\Metade da Diferença\obj\Debug\Metade da Diferença.exe
+F:\ETEC\Programação Algoritmo\Metade da Diferença\Metade da Diferença\obj\Debug\Metade da Diferença.pdb

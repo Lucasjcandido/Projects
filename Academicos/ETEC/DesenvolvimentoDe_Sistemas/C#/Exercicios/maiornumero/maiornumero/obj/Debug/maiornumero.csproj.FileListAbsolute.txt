@@ -1,0 +1,7 @@
+C:\Users\lucas\source\repos\maiornumero\maiornumero\bin\Debug\maiornumero.exe.config
+C:\Users\lucas\source\repos\maiornumero\maiornumero\bin\Debug\maiornumero.exe
+C:\Users\lucas\source\repos\maiornumero\maiornumero\bin\Debug\maiornumero.pdb
+C:\Users\lucas\source\repos\maiornumero\maiornumero\obj\Debug\maiornumero.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\maiornumero\maiornumero\obj\Debug\maiornumero.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\maiornumero\maiornumero\obj\Debug\maiornumero.exe
+C:\Users\lucas\source\repos\maiornumero\maiornumero\obj\Debug\maiornumero.pdb

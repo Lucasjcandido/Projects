@@ -1,0 +1,185 @@
+    /* Não responsivo */
+    #responsive {display: none;}
+    #no-responsive {display: block;}
+    body{margin: 0; height: 0;}
+    /** CONTATO **/
+    .Contato{height: 40px; padding-top: 9px; background-color: #071948; position: absolute;}
+    #fone{margin-left: 15%; font-weight: bold; color: #fff;}
+    #mail{margin-left: 5%; font-weight: bold; color: #fff;}
+    #whatsapp{margin-left: 5%; font-weight: bold; color: #fff; border-radius: 150px; border-color: cornsilk;}
+    #chat{margin-left: 5%; font-weight: bold; color: #fff;}
+
+    /** MENU **/
+    .Menu{border-left: 20px; background-color: #fff;}
+    .box-logo{height: 80px; border: none;}
+    #Logo{max-height: 100%; margin: 0; box-shadow: 0 0 1.5rem black;}
+    .btns{ float: left; margin-top: -70px; position: relative;}
+    .btns a:hover{text-decoration: none; color: black;}
+    #home{margin-left: 40%; font-weight: bold;}
+    #empresa{margin-left: 5%; font-weight: bold;}
+    #servicos{margin-left: 5%; font-weight: bold;}
+    #contato2{margin-left: 5%; font-weight: bold;}
+
+    /** SLIDE **/
+    .Slide{margin: 0;}
+    #slide_01{width: 100%; height: 495px; margin: 0}
+    #texto{margin: 8% -20%; padding: 6% 21%;}
+    #apr{padding-left: 20%;}
+    #construcao{max-width: 100%; margin: -28% 58%; padding: 1% 2%; position: relative;}
+    #construcao-img{ width: 100%}
+
+    /** PACOTES **/
+    #Pacotes{margin: 0; height: 382px; background-color: #071948; padding: 8px;}
+
+    #box1{height: 100%; border: 1px solid #fff; width: 25%; margin-left: 7%;}
+    #img1{height: 5%; width: 5%;}
+    #box-img-1{width: 100%; height: 185px; margin-top: 10px;}
+    #txt-1{font-weight: bold; color: #fff;}
+
+    #box2{height: 100%; border: 1px solid #fff; width: 25%; margin-left: 65px; margin-top: -20px;}
+    #img2{height: 5%; width: 5%;}
+    #box-img-2{width: 100%; height: 185px; margin-top: 10px;}
+    #txt-2{font-weight: bold; color: #fff;}
+
+    #box3{height: 100%; border: 1px solid #fff; width: 25%; margin-left: 65px; margin-top: -40px;}
+    #img3{height: 5%; width: 5%;}
+    #box-img-3{width: 100%; height: 185px; margin-top: 10px;}
+    #txt-3{font-weight: bold; color: #fff;}
+
+    .btn-info{width: 81px; text-align: center; margin-left: 35%;border-radius: 15px;}
+    .btn-info :hover{text-decoration: none; color: white;}
+    .btn-info a{color: black; font-weight: bold;}
+
+    /* CONTATO */
+
+    #contato{margin-left: 0%; align-items: center; padding-left: 42%;}
+    #contato h3{font-weight: bold; font-size: 21px;}
+    #contato :hover{text-decoration: none; color: black}
+    #by{opacity: 40%;}
+
+
+    @media screen and (max-width: 768px){
+    #responsive {display: none;}
+    #no-responsive {display: block;}
+    body{margin: 0; height: 0;}
+
+    /** CONTATO **/
+    .Contato{height: 40px; padding-top: 9px; background-color: #071948; position: absolute; font-size: 12px;}
+    #fone{margin-left: 3%; font-weight: bold; color: #fff;}
+    #mail{margin-left: 5%; font-weight: bold; color: #fff;}
+    #whatsapp{margin-left: 5%; font-weight: bold; color: #fff; border-radius: 150px; border-color: cornsilk;}
+    #chat{margin-left: 5%; font-weight: bold; color: #fff;}
+
+    /** MENU **/
+    .Menu{border-left: 20px; background-color: #fff;}
+    .box-logo{height: 80px; border: none;}
+    #Logo{max-height: 100%; margin-left: 10%;}
+    .btns{ float: left; margin-top: -70px; position: relative;}
+    .btns a:hover{text-decoration: none; color: black;}
+    #home{margin-left: 40%; font-weight: bold;}
+    #empresa{margin-left: 5%; font-weight: bold;}
+    #servicos{margin-left: 5%; font-weight: bold;}
+    #contato2{margin-left: 5%; font-weight: bold;}
+
+    /** SLIDE **/
+    .Slide{margin: 0;}
+    #slide_01{width: 100%; height: 358px; margin: -6% 0%;}
+    #texto{margin: -11% -20%; padding: 6% 21%;}
+    #apr{padding-left: 20%;}
+    #construcao{max-width: 100%; margin: -25% 58%; padding: 1% 2%; position: relative;}
+    #construcao-img{ width: 100%}
+
+    /** PACOTES **/
+    #Pacotes{margin: 0; height: 382px; background-color: #071948; padding: 8px; text-align: center;}
+
+    #box1{height: 100%; border: 1px solid #fff; width: 25%; margin-left: 7%;}
+    #img1{height: 5%; width: 5%;}
+    #box-img-1{width: 100%; height: 185px; margin-top: 10px;}
+    #txt-1{font-weight: bold; color: #fff;}
+
+    #box2{height: 100%; border: 1px solid #fff; width: 25%; margin-left: 65px; margin-top: -20px;}
+    #img2{height: 5%; width: 5%;}
+    #box-img-2{width: 100%; height: 185px; margin-top: 10px;}
+    #txt-2{font-weight: bold; color: #fff;}
+
+    #box3{height: 100%; border: 1px solid #fff; width: 25%; margin-left: 65px; margin-top: -40px;}
+    #img3{height: 5%; width: 5%;}
+    #box-img-3{width: 100%; height: 185px; margin-top: 10px;}
+    #txt-3{font-weight: bold; color: #fff;}
+
+    .btn-info{width: 81px; text-align: center; margin-left: 23%;}
+    .btn-info :hover{text-decoration: none; color: white;}
+    .btn-info a{color: black; font-weight: bold;}
+
+    /* CONTATO */
+
+    #contato{margin-left: 0%; align-items: center; padding-left: 42%;}
+    #contato h3{font-weight: bold; font-size: 21px;}
+    #contato :hover{text-decoration: none; color: black}
+    #by{opacity: 40%;}
+    }
+    @media screen and (max-width: 320px){
+        *{margin-bottom: 0;}
+        #responsive{display: grid;}
+        #no-responsive{display: none;}
+        legend{border-color: black;}
+        .div{padding: 0; margin: 0;}
+
+        /* BOTÃO */
+
+        #btn-toggle{width: 40px; height: 40px;}
+        #toggle-img{width: 100%;}
+
+        /* MENU RESPONSIVO */
+
+        .logo{max-width: 50%; margin-left: 30%;}
+        .alinhamento{font-size: 1pt}
+        ul{list-style: none; display: block;}
+        #navbarSupportedContent{ padding-top: 10%;text-align: center;; width: 100%;}
+        .nav-item{font-size: 15pt; padding-left: 5%;}
+        a{color: black;}
+        a:link {text-decoration:none;}
+        a:visited {text-decoration:none;}
+        a:hover {text-decoration:none;}
+        
+        /** EMPRESA **/
+        .empresa{height: 530px;}
+
+        .Slide{display: none;}
+        #slide_01{display: none;}
+        #apr{margin-top: 0%; padding-left: 0;}
+        #texto{padding-left: 0px; margin: 0; padding: 0; text-align: center;}
+        #construcao{max-width: 100%; margin: 0; position: relative;}
+        #construcao-img{ width: 100%}
+
+        /** PACOTES **/
+
+        #Pacotes{margin: 0; height: 1215px; background-color: rgb(14, 52, 124); padding-top: 5%;}
+
+        #box1{height: 30%; border: 1px solid #fff; width: 84%; margin-left: 10%; text-align: center;}
+        #img1{height: 5%; width: 5%;}
+        #box-img-1{max-width: 100%; margin-top: 5%;}
+        #txt-1{font-size: 15px; font-weight: bold; color: white;}
+
+        #box2{height: 33%; border: 1px solid #fff; width: 84%; margin-left: 10%; text-align: center;margin-top: 0;}
+        #img2{height: 5%; width: 5%;}
+        #box-img-2{max-width: 100%; margin-top: 14%;}
+        #txt-2{font-size: 15px; font-weight: bold; color: white;}
+
+        #box3{height: 33%; border: 1px solid #fff; width: 84%; margin-left: 10%; text-align: center;}
+        #img3{height: 5%; width: 5%;}
+        #box-img-3{max-width: 100%; margin-top: 24%;}
+        #txt-3{font-size: 15px; font-weight: bold; color: white;}
+    
+        .btn-info{width: 43%; height: 5%; margin-left: 26%; text-align: center; margin-top: 15%;}
+        .btn-info :hover{text-decoration: none; color: white;}
+        .btn-info a{color: black; font-weight: bold;}
+        .btn-info #btn-3{margin-top: 5%;}
+
+        /* CONTATO */
+
+        #contato{margin-left: -25%; align-items: center;}
+        #contato h3{font-weight: bold; font-size: 21px;}
+        #contato :hover{text-decoration: none; color: black;}
+        #by{opacity: 40%;}
+    }

@@ -1,0 +1,29 @@
+.container{
+    background-color: red;
+	margin: 0 auto;
+	height: 1610px;
+	width: 90%;
+}
+.header{
+	height: 150px;
+	background-color: blue;
+	width: 100%;
+}
+.Nav{
+	height: 50px;
+	background-color: purple;
+	width: 100%;
+}
+.section, .section2, .section3{
+	height: 470px;
+	background-color: pink;
+	width: 100%;
+}
+
+.section2{
+	background-color: orange;
+}
+
+.section3{
+	background-color: magenta;
+}
