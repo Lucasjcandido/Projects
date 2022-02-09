@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\GHUB\Projetos\C#\tabuada_quatro\tabuada_quatro\bin\Debug\tabuada_quatro.exe.config
+C:\Users\lucas\Documents\GHUB\Projetos\C#\tabuada_quatro\tabuada_quatro\bin\Debug\tabuada_quatro.exe
+C:\Users\lucas\Documents\GHUB\Projetos\C#\tabuada_quatro\tabuada_quatro\bin\Debug\tabuada_quatro.pdb
+C:\Users\lucas\Documents\GHUB\Projetos\C#\tabuada_quatro\tabuada_quatro\obj\Debug\tabuada_quatro.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\GHUB\Projetos\C#\tabuada_quatro\tabuada_quatro\obj\Debug\tabuada_quatro.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\GHUB\Projetos\C#\tabuada_quatro\tabuada_quatro\obj\Debug\tabuada_quatro.exe
+C:\Users\lucas\Documents\GHUB\Projetos\C#\tabuada_quatro\tabuada_quatro\obj\Debug\tabuada_quatro.pdb

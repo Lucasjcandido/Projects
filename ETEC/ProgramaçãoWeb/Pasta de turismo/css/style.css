@@ -1,0 +1,93 @@
+	/** LAYOUT NÃO RESPONSIVO **/
+
+	/* TAMANHO PROPORCIONAL DA TELA */
+
+	body{background-color: #E8E8E8;}
+	#responsive{display: none;}
+	#no-responsive{display: block;}
+
+	/* MENU*/
+
+	.menu{margin-top: 4%;}	
+	.container{max-height: 150px;}
+	.direita{text-align: right;}
+	.centro{text-align: center;}
+	.logo{max-width: 100%;}
+	.nav-item{font-size: 16pt; padding-left: 5%;}
+	a:Link {text-decoration:none;}
+	a:Visited {text-decoration:none;}
+	a:Hover {text-decoration:none;}
+
+	/* AGÊNCIA */
+
+	#Agencia{border-color: black; padding: 5px;}
+	#texto{text-align: justify; font-size: 14pt;padding-left: 10px;}
+	#aviao{position: absolute; opacity: 0; animation-name: anime; animation-duration: 12s; animation-iteration-count: infinite; height: 321px; width: 518px; left: 31px;}
+	@keyframes anime{25%{opacity: 1; transform: scale(1.1,1.1);} 50%{opacity: 0;}}
+	#aviao:nth-child(1){animation-delay: 2s, 10ms}
+	#aviao:nth-child(2){animation-delay: 6s, 1s;}
+	#aviao:nth-child(3){animation-delay: 10s;}
+
+	/* PACOTES */
+
+	#Pacote{border-color: black; padding-top: 5%;}
+	#center{text-align: center;}
+	h2, h4{font-weight: bold;}
+
+	/* CONTATO */
+
+	#Contato{border-color: black; padding: 5px;}
+	.Fone{font-size: 112%; text-align: center;}
+	.Facebook{font-size:38px;color:#3B5998;margin-left: 30%;}
+	.Instagram{font-size:38px;color:black;margin-left: 5%;}
+	.Twitter{font-size:38px;color:DodgerBlue;margin-left: 5%;}
+
+/** LAYOUT RESPONSIVO **/
+
+	/* TAMANHO PROPORCIONAL DA TELA */
+
+@media screen and (max-width: 320px){
+	*{margin-bottom: 0;}
+	#no-responsive{display: none;}
+	#responsive{ display: block; width: 50%;}
+	legend{border-color: black;}
+
+	
+
+	/* BOTÃO */
+
+	#btn-toggle{width: 50px; height: 50px;}
+	#toggle-img{width: 100%;}
+
+	/* MENU RESPONSIVO */
+
+	.logo{max-width: 100%; margin-left: 55%;}
+	.alinhamento{font-size: 12pt}
+	ul{list-style: none; display: inline-block;}
+	#navbarSupportedContent{padding-top: 15%; width: 100%; margin-left: 50%;}
+	.nav-item{font-size: 15pt; padding-left: 5%;}
+	a{color: black;}
+	a:link {text-decoration:none;}
+	a:visited {text-decoration:none;}
+	a:hover {text-decoration:none;}
+
+	/* AGÊNCIA */
+
+	#Agencia{border-color: black; padding: 5px;}
+	#texto{text-align: justify; font-size: 112%;; padding-top: 72%;}
+	#aviao {position: absolute; opacity: 0; animation-name: anime; animation-duration: 12s; animation-iteration-count: infinite; height: 176px; width: 260px;}
+	
+	/* PACOTES */
+
+	#Pacote{border-color: black; padding-top: 5%;}
+	#center{text-align: center;}
+	h2, h4{font-weight: bold;}
+
+	/* CONTATO */
+
+	#Contato{border-color: black; padding: 5px;}
+	.Fone{font-size: 70%; align-items: center;}
+	.Facebook{font-size:20px; color:DarkSlateBlue; margin-left: 30%;}
+	.Instagram{font-size:20px; color: Black; margin-left: 30%;}
+	.Twitter{font-size:20px; color:DodgerBlue; margin-left: 30%;}
+}

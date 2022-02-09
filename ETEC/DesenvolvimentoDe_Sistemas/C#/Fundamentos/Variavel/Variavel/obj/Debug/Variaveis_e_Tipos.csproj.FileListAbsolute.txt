@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\Projetos\C#\Variavel\Variavel\bin\Debug\Variavel.exe.config
+C:\Users\lucas\Documents\Projetos\C#\Variavel\Variavel\bin\Debug\Variavel.exe
+C:\Users\lucas\Documents\Projetos\C#\Variavel\Variavel\bin\Debug\Variavel.pdb
+C:\Users\lucas\Documents\Projetos\C#\Variavel\Variavel\obj\Debug\Variaveis_e_Tipos.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\Projetos\C#\Variavel\Variavel\obj\Debug\Variaveis_e_Tipos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Projetos\C#\Variavel\Variavel\obj\Debug\Variavel.exe
+C:\Users\lucas\Documents\Projetos\C#\Variavel\Variavel\obj\Debug\Variavel.pdb

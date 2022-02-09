@@ -1,0 +1,7 @@
+C:\Users\PC-HOME\Documents\Projetos_Escolares\ETEC - Curso Tecnico de Analise e Desenvolvimento de Sistemas\1°Modulo\1°Modulo\[07-2020]\Programação Algoritmo\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\PC-HOME\Documents\Projetos_Escolares\ETEC - Curso Tecnico de Analise e Desenvolvimento de Sistemas\1°Modulo\1°Modulo\[07-2020]\Programação Algoritmo\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\PC-HOME\Documents\Projetos_Escolares\ETEC - Curso Tecnico de Analise e Desenvolvimento de Sistemas\1°Modulo\1°Modulo\[07-2020]\Programação Algoritmo\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\PC-HOME\Documents\Projetos_Escolares\ETEC - Curso Tecnico de Analise e Desenvolvimento de Sistemas\1°Modulo\1°Modulo\[07-2020]\Programação Algoritmo\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\PC-HOME\Documents\Projetos_Escolares\ETEC - Curso Tecnico de Analise e Desenvolvimento de Sistemas\1°Modulo\1°Modulo\[07-2020]\Programação Algoritmo\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\PC-HOME\Documents\Projetos_Escolares\ETEC - Curso Tecnico de Analise e Desenvolvimento de Sistemas\1°Modulo\1°Modulo\[07-2020]\Programação Algoritmo\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\PC-HOME\Documents\Projetos_Escolares\ETEC - Curso Tecnico de Analise e Desenvolvimento de Sistemas\1°Modulo\1°Modulo\[07-2020]\Programação Algoritmo\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
