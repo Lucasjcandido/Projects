@@ -1,6 +1,0 @@
-F:\ETEC\Programação Algoritmo\Algoritmo Media\Algoritmo Media\obj\Debug\Algoritmo Media.csproj.CoreCompileInputs.cache
-F:\ETEC\Programação Algoritmo\Algoritmo Media\Algoritmo Media\bin\Debug\Algoritmo Media.exe.config
-F:\ETEC\Programação Algoritmo\Algoritmo Media\Algoritmo Media\bin\Debug\Algoritmo Media.exe
-F:\ETEC\Programação Algoritmo\Algoritmo Media\Algoritmo Media\bin\Debug\Algoritmo Media.pdb
-F:\ETEC\Programação Algoritmo\Algoritmo Media\Algoritmo Media\obj\Debug\Algoritmo Media.exe
-F:\ETEC\Programação Algoritmo\Algoritmo Media\Algoritmo Media\obj\Debug\Algoritmo Media.pdb

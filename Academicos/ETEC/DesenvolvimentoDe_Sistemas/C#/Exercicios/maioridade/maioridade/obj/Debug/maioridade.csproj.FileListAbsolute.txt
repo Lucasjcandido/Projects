@@ -1,7 +1,0 @@
-C:\Users\lucas\source\repos\maioridade\maioridade\bin\Debug\maioridade.exe.config
-C:\Users\lucas\source\repos\maioridade\maioridade\bin\Debug\maioridade.exe
-C:\Users\lucas\source\repos\maioridade\maioridade\bin\Debug\maioridade.pdb
-C:\Users\lucas\source\repos\maioridade\maioridade\obj\Debug\maioridade.csprojAssemblyReference.cache
-C:\Users\lucas\source\repos\maioridade\maioridade\obj\Debug\maioridade.csproj.CoreCompileInputs.cache
-C:\Users\lucas\source\repos\maioridade\maioridade\obj\Debug\maioridade.exe
-C:\Users\lucas\source\repos\maioridade\maioridade\obj\Debug\maioridade.pdb

@@ -1,7 +1,0 @@
-C:\Users\lucas\Documents\Projetos\C#\Constante\Constante\bin\Debug\Constante.exe.config
-C:\Users\lucas\Documents\Projetos\C#\Constante\Constante\bin\Debug\Constante.exe
-C:\Users\lucas\Documents\Projetos\C#\Constante\Constante\bin\Debug\Constante.pdb
-C:\Users\lucas\Documents\Projetos\C#\Constante\Constante\obj\Debug\Constante.csproj.CoreCompileInputs.cache
-C:\Users\lucas\Documents\Projetos\C#\Constante\Constante\obj\Debug\Constante.exe
-C:\Users\lucas\Documents\Projetos\C#\Constante\Constante\obj\Debug\Constante.pdb
-C:\Users\lucas\Documents\Projetos\C#\Constante\Constante\obj\Debug\Constante.csprojAssemblyReference.cache

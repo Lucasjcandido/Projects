@@ -1,7 +1,0 @@
-C:\Users\lucas\source\repos\ordem_crescente\ordem_crescente\bin\Debug\ordem_crescente.exe.config
-C:\Users\lucas\source\repos\ordem_crescente\ordem_crescente\bin\Debug\ordem_crescente.exe
-C:\Users\lucas\source\repos\ordem_crescente\ordem_crescente\bin\Debug\ordem_crescente.pdb
-C:\Users\lucas\source\repos\ordem_crescente\ordem_crescente\obj\Debug\ordem_crescente.csproj.CoreCompileInputs.cache
-C:\Users\lucas\source\repos\ordem_crescente\ordem_crescente\obj\Debug\ordem_crescente.exe
-C:\Users\lucas\source\repos\ordem_crescente\ordem_crescente\obj\Debug\ordem_crescente.pdb
-C:\Users\lucas\source\repos\ordem_crescente\ordem_crescente\obj\Debug\ordem_crescente.csprojAssemblyReference.cache

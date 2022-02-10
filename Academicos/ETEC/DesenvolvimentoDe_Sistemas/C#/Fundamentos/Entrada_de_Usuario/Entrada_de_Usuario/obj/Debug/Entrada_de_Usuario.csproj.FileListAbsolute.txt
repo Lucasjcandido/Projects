@@ -1,7 +1,0 @@
-C:\Users\lucas\Documents\Projetos\C#\Entrada_de_Usuario\Entrada_de_Usuario\bin\Debug\Entrada_de_Usuario.exe.config
-C:\Users\lucas\Documents\Projetos\C#\Entrada_de_Usuario\Entrada_de_Usuario\bin\Debug\Entrada_de_Usuario.exe
-C:\Users\lucas\Documents\Projetos\C#\Entrada_de_Usuario\Entrada_de_Usuario\bin\Debug\Entrada_de_Usuario.pdb
-C:\Users\lucas\Documents\Projetos\C#\Entrada_de_Usuario\Entrada_de_Usuario\obj\Debug\Entrada_de_Usuario.csprojAssemblyReference.cache
-C:\Users\lucas\Documents\Projetos\C#\Entrada_de_Usuario\Entrada_de_Usuario\obj\Debug\Entrada_de_Usuario.csproj.CoreCompileInputs.cache
-C:\Users\lucas\Documents\Projetos\C#\Entrada_de_Usuario\Entrada_de_Usuario\obj\Debug\Entrada_de_Usuario.exe
-C:\Users\lucas\Documents\Projetos\C#\Entrada_de_Usuario\Entrada_de_Usuario\obj\Debug\Entrada_de_Usuario.pdb
